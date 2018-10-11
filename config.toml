@@ -34,15 +34,17 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "ocean"
+
+
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "margaux renier"
-  role = "Student at UMONS (University of Mons, Belgium)"
+  role = "Student at UMONS, section biology (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -53,7 +55,7 @@ defaultContentLanguageInSubdir = false
   email = "margaux.renier@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
+  phone = "+32/493.61.36.61"
   skype = ""
   telegram = ""
 
