@@ -13,6 +13,7 @@ weight = 5
     "Biology",
     "travel"
     "art"
+    "cooking"
   ]
 
 # List your qualifications (such as academic degrees).

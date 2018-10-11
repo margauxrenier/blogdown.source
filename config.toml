@@ -1,5 +1,5 @@
 baseurl = "https://margauxrenier.github.io/"
-title = "margaux renier"
+title = "Margaux Renier"
 copyright = "&copy; 2018 margaux renier (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"
 enableEmoji = true
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
   font = "classic"
 
   # Your details.
-  name = "margaux renier"
+  name = "Margaux Renier"
   role = "Student at UMONS, section biology (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
