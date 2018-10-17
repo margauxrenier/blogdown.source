@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/main-header.jpg"  # Image path relative to your `static/img/headers/main-header.jpg` folder.
+  overlay_img = "headers/DSC_0413.JPG"  # Image path relative to your `static/img/headers/DSC_0413.JPG` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -27,7 +27,7 @@ weight = 3
 
 margaux renier
 <br>
-<small>A short description of myself here</small>
+<small>Student in Biology, intersted about discovery the world an learn</small>
 <br><br>
 
 <script type="text/javascript">
