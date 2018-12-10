@@ -37,4 +37,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium...
+I am student at the University of Mons, Belgium. I'm in bac2 biology

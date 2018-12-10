@@ -27,7 +27,7 @@ weight = 3
 
 margaux renier
 <br>
-<small>Student in Biology, interested about learn news things </small>
+<small>Student in Biology, interested to learn news things </small>
 <br><br>
 
 <script type="text/javascript">
