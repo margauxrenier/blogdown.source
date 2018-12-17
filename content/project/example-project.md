@@ -27,4 +27,6 @@ image = "headers/project-header.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+I'm talking about my project for lesson of biochimie. I made a work with 4 people. We made manipulation about sugar.
+
+
